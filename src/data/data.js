@@ -23,6 +23,22 @@ export const links = [
 
 export const dumpGallery = [
   {
+    image: "image-52.jpg",
+    ref: "https://tctc.kr/",
+  },
+  {
+    image: "image-51.jpg",
+    ref: "https://unveil.fr/",
+  },
+  {
+    image: "image-50.jpg",
+    ref: "https://lisovskiy.work/",
+  },
+  {
+    image: "image-49.jpg",
+    ref: "https://sub.global/",
+  },
+  {
     image: "image-48.jpg",
     ref: "https://roundtwoagency.com/",
   },
