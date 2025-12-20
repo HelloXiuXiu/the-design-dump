@@ -23,6 +23,30 @@ export const links = [
 
 export const dumpGallery = [
   {
+    image: "image-58.jpg",
+    ref: "https://gpu.gallery/index.html",
+  },
+  {
+    image: "image-57.jpg",
+    ref: "https://twomuch.studio/",
+  },
+  {
+    image: "image-56.jpg",
+    ref: "https://fungal.page/",
+  },
+  {
+    image: "image-55.jpg",
+    ref: "https://tdingsun.github.io/dust/",
+  },
+  {
+    image: "image-54.jpg",
+    ref: "https://tdingsun.github.io/reading-machines/",
+  },
+  {
+    image: "image-53.jpg",
+    ref: "https://trekker.occupantfonts.com//",
+  },
+  {
     image: "image-52.jpg",
     ref: "https://tctc.kr/",
   },
