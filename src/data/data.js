@@ -23,6 +23,10 @@ export const links = [
 
 export const dumpGallery = [
   {
+    image: "image-59.jpg",
+    ref: "https://xkm.studio/",
+  },
+  {
     image: "image-58.jpg",
     ref: "https://gpu.gallery/index.html",
   },
